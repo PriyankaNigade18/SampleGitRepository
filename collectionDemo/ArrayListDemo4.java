@@ -17,6 +17,8 @@ public class ArrayListDemo4 {
 	 */
 	public static void main(String[] args) 
 	{
+		
+		System.out.println("Program started!");
 		ArrayList<Integer> al=new ArrayList<>();
 		al.add(10);
 		al.add(20);
@@ -63,7 +65,7 @@ public class ArrayListDemo4 {
 		
 		
 		
-		
+		System.out.println("Program ends!");
 		
 		
 		
